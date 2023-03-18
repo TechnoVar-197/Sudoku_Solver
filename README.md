@@ -1,1 +1,1 @@
-# DSA_MINI-PROJECT
+# Soduku Solver
